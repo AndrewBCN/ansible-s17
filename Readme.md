@@ -1,3 +1,8 @@
+# Formation Ansible - S17
+Animateur: Bruno Guérin
+Participants: Déborah, Mamadi, Younes, Frédéric, André
+
+
 ## Fichier d'inventaire
 Dans le fichier *hosts* du répertoire *inventaire*.
 On vérifie par la commande
